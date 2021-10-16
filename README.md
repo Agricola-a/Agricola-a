@@ -4,7 +4,7 @@
 #### Connect with me: 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Angular" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
