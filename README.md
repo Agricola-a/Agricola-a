@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Andrea Agricola</h1>
-<h3 align="center">I'm a Angular frontend developer (Junior)</h3>
+<h3 align="center">I'm a Angular Front-End Developer (Junior)</h3>
 
 #### Connect with me: 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
